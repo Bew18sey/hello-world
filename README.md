@@ -1,2 +1,2 @@
 # hello-world
-Tutorial Repository
+Hi, this is me, learning how to use Git
